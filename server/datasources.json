@@ -1,0 +1,13 @@
+{
+  "mongoatlas": {
+    "host": "cluster0-7a3h9.mongodb.net",
+    "port": 27017,
+    "url": "mongodb+srv://root:root@cluster0-7a3h9.mongodb.net/lb3-auth0?retryWrites=true&w=majority",
+    "database": "lb3-auth0",
+    "password": "root",
+    "name": "mongoatlas",
+    "user": "root",
+    "useNewUrlParser": true,
+    "connector": "mongodb"
+  }
+}
